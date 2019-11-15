@@ -4,7 +4,7 @@ Team Members:  Steve Bark, Xiaodi Lin, Jeff Eickholt
 
 Project Descripton:
 
-We will exam data on mathematics test scores in the New York public school system.  
+We will exam data on mathematics test scores in the Texas public school system.  
 
 
 Research Questions to Answer:
@@ -22,14 +22,13 @@ Other possible Research Questions to Answer:
 
 Data Sets to Use:
 
-1.  New York City Public School 2013-15 New York State Math Exam by School
+1.  Texas STAAR Math data 
 
-2.  2013-2019 New York City Charter School Results
+2.  Texas School info (address, type of districict, etc..)
 
 Other Potential Data Sets:
 
-1.  Location data for New York publich schools
-2.  Socio-econcomic data for New York to match with location data
+2.  Socio-econcomic data for Texas to match with location data
 
 Rough Breakdown of Tasks:
 
