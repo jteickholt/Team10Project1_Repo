@@ -1,3 +1,5 @@
 # ignore the following files
 api_keys.py
 __pycache__/api_keys.cpython-37.pyc
+notebooks/config.py
+notebooks/__pycache__/config.cpython-37.pyc
