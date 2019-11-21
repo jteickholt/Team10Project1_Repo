@@ -1,0 +1,38 @@
+,,column
+GEO.id,Id,
+GEO.id2,Id2,
+GEO.display-label,Geography,zip code
+HC01_EST_VC02,Total; Estimate; Total households,d
+HC01_MOE_VC02,Total; Margin of Error; Total households,e
+HC01_EST_VC03,Total; Estimate; Average household size,n
+HC01_MOE_VC03,Total; Margin of Error; Average household size,o
+HC01_EST_VC06,Total; Estimate; FAMILIES - Total families,x
+HC01_MOE_VC06,Total; Margin of Error; FAMILIES - Total families,y
+HC01_EST_VC07,Total; Estimate; FAMILIES - Average family size,ah
+HC01_MOE_VC07,Total; Margin of Error; FAMILIES - Average family size,ai
+HC01_EST_VC15,Total; Estimate; Total households,cf
+HC01_MOE_VC15,Total; Margin of Error; Total households,cg
+HC01_EST_VC17,Total; Estimate; Total households - SELECTED HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,cp
+HC01_MOE_VC17,Total; Margin of Error; Total households - SELECTED HOUSEHOLDS BY TYPE - Households with one or more people under 18 years,cq
+HC01_EST_VC18,Total; Estimate; Total households - SELECTED HOUSEHOLDS BY TYPE - Households with one or more people 60 years and over,da
+HC01_MOE_VC18,Total; Margin of Error; Total households - SELECTED HOUSEHOLDS BY TYPE - Households with one or more people 60 years and over,db
+HC01_EST_VC19,Total; Estimate; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone,dj
+HC01_MOE_VC19,Total; Margin of Error; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone,dk
+HC05_EST_VC19,Nonfamily household; Estimate; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone,dr
+HC05_MOE_VC19,Nonfamily household; Margin of Error; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone,ds
+HC01_EST_VC20,Total; Estimate; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone - 65 years and over,dt
+HC01_MOE_VC20,Total; Margin of Error; Total households - SELECTED HOUSEHOLDS BY TYPE - Householder living alone - 65 years and over,du
+HC01_EST_VC23,Total; Estimate; UNMARRIED-PARTNER HOUSEHOLDS - Same sex,
+HC01_MOE_VC23,Total; Margin of Error; UNMARRIED-PARTNER HOUSEHOLDS - Same sex,
+HC01_EST_VC24,Total; Estimate; UNMARRIED-PARTNER HOUSEHOLDS - Opposite sex,
+HC01_MOE_VC24,Total; Margin of Error; UNMARRIED-PARTNER HOUSEHOLDS - Opposite sex,
+HC01_EST_VC27,Total; Estimate; UNITS IN STRUCTURE - 1-unit structures,ex
+HC01_MOE_VC27,Total; Margin of Error; UNITS IN STRUCTURE - 1-unit structures,ey
+HC01_EST_VC28,Total; Estimate; UNITS IN STRUCTURE - 2-or-more-unit structures,fh
+HC01_MOE_VC28,Total; Margin of Error; UNITS IN STRUCTURE - 2-or-more-unit structures,fi
+HC01_EST_VC29,Total; Estimate; UNITS IN STRUCTURE - Mobile homes and all other types of units,fr
+HC01_MOE_VC29,Total; Margin of Error; UNITS IN STRUCTURE - Mobile homes and all other types of units,fs
+HC01_EST_VC32,Total; Estimate; HOUSING TENURE - Owner-occupied housing units,gb
+HC01_MOE_VC32,Total; Margin of Error; HOUSING TENURE - Owner-occupied housing units,gc
+HC01_EST_VC33,Total; Estimate; HOUSING TENURE - Renter-occupied housing units,gl
+HC01_MOE_VC33,Total; Margin of Error; HOUSING TENURE - Renter-occupied housing units,gm
