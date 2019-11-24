@@ -19,7 +19,13 @@
 
 #### libraries:  Folder to contain any needed libraries.  This was not used.
 
-#### notebooks:  Contains all notebooks used in analysis.
+#### notebooks:  Contains all notebooks used in analysis.  Files Include:
+1.  AllStudentsCalcs.ipynb:  Analysis for all students for all grades.
+2.  DemographicsCalcs.ipynb:  Analysis based on racial demographics for all grades.
+3.  ED+Calcs.ipynb:  Analysis for economically disadvantaged students for all grades.
+4.  SchoolData_Focused_Grade3:  Processing raw data create AllStudentsGrade3.csv
+5.  SchoolData_Focused_Grade4:  Processing raw data create AllStudentsGrade5.csv
+6.  SchoolData_Focused_Grade6:  Processing raw data create AllStudentsGrade6.csv
 
 #### rawdata:  Contains all of the raw data files.
 
