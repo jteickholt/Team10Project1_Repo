@@ -10,6 +10,12 @@
 4.  DemographicsHABWGrade3.csv:  Test results for all students grade 3 by racial demographic.  Also contains school type and school       address.
 5.  DemographicsHABWGrade4.csv:  Test results for all students grade 4 by racial demographic.  Also contains school type and school       address.
 6.  DemographicsHABWGrade5.csv:  Test results for all students grade 5 by racial demographic.  Also contains school type and school       address.
+8.  EconomicallyDisadvantagedGrade3.csv:  Test results for economially disadacantaged students grade 3.  Also contains school type and school  address.  
+9.  EconomicallyDisadvantagedGrade4.csv:  Test results for economially disadacantaged students grade 4.  Also contains school type and school address.
+10.  EconomicallyDisadvantagedGrade5.csv:  Test results for economially disadacantaged students grade 5.  Also contains school type and school address.
+11.  FinalHeaders.csv: File than contains the names of the fields that we chose from the raw school test data.
+12.  grade3_geodata.csv:  This contains the test results, school level info, and the latitude and longitude from the Google Geocode API.  Saved to be used in further analysis.
+13.  grade3_univdata.csv:  This contains the test results, school level info, latitude and longitude, and result from Google Place API on proximity to universtity.  Saved to be used in further analysis.
 
 #### libraries:  Folder to contain any needed libraries.  This was not used.
 
