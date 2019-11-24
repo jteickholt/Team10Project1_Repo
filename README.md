@@ -10,7 +10,7 @@
 4.  DemographicsHABWGrade3.csv:  Test results for all students grade 3 by racial demographic.  Also contains school type and school       address.
 5.  DemographicsHABWGrade4.csv:  Test results for all students grade 4 by racial demographic.  Also contains school type and school       address.
 6.  DemographicsHABWGrade5.csv:  Test results for all students grade 5 by racial demographic.  Also contains school type and school       address.
-8.  EconomicallyDisadvantagedGrade3.csv:  Test results for economially disadacantaged students grade 3.  Also contains school type and school  address.  
+8.  EconomicallyDisadvantagedGrade3.csv:  Test results for economially disadacantaged students grade 3.  Also contains school type and school  address.
 9.  EconomicallyDisadvantagedGrade4.csv:  Test results for economially disadacantaged students grade 4.  Also contains school type and school address.
 10.  EconomicallyDisadvantagedGrade5.csv:  Test results for economially disadacantaged students grade 5.  Also contains school type and school address.
 11.  FinalHeaders.csv: File than contains the names of the fields that we chose from the raw school test data.
@@ -20,12 +20,13 @@
 #### libraries:  Folder to contain any needed libraries.  This was not used.
 
 #### notebooks:  Contains all notebooks used in analysis.  Files Include:
-1.  AllStudentsCalcs.ipynb:  Analysis for all students for all grades.
-2.  DemographicsCalcs.ipynb:  Analysis based on racial demographics for all grades.
-3.  ED+Calcs.ipynb:  Analysis for economically disadvantaged students for all grades.
-4.  SchoolData_Focused_Grade3:  Processing raw data create AllStudentsGrade3.csv
-5.  SchoolData_Focused_Grade4:  Processing raw data create AllStudentsGrade5.csv
-6.  SchoolData_Focused_Grade6:  Processing raw data create AllStudentsGrade6.csv
+1.  AllStudentsCalcs.ipynb:  Analysis for all students for all grades.  Author:Steve
+2.  DemographicsCalcs.ipynb:  Analysis based on racial demographics for all grades. Author:Steve
+3.  ED+Calcs.ipynb:  Analysis for economically disadvantaged students for all grades. Author:Steve
+4.  SchoolData_Focused_Grade3.ipynb:  Processing raw data create AllStudentsGrade3.csv.  Author:Steve
+5.  SchoolData_Focused_Grade4.ipynb:  Processing raw data create AllStudentsGrade5.csv. Author:Steve
+6.  SchoolData_Focused_Grade6.ipynb:  Processing raw data create AllStudentsGrade6.csv. Author:Steve
+7.  jeff.ipynb:  Analyis geographical relationship. Authoer:  Jeff
 
 #### rawdata:  Contains all of the raw data files.
 
