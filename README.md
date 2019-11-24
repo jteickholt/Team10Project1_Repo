@@ -36,8 +36,9 @@
 2.  BoxAllStudentsGrade5.png:  Boxplot included in comparing charter vs independent schools for all students grade 5.
 3.  EconomicallyDisadvantagedGrade5.png:  Boxplot included in slides of results by economically disadvantage grade 5.
 4.  Project1_SlidesSteve_Xiaodi_Jeff.pptx:  Project slides presented in class.
-5.  SchoolRegionBoxplot.png:  Boxplot included in slides on relationship between results and region
-6.  SchoolGMAP.png:  Gmap of top and bottom 25 school included in slides
-7.  SchoolUnivBoxplot:  Boxplot included in slides on relationshp between results and proximity to university
-8.  Team10Project_Proposal  Inital project proposal
+5.  Project_Summary:  One page project summary.
+6.  SchoolRegionBoxplot.png:  Boxplot included in slides on relationship between results and region
+7.  SchoolGMAP.png:  Gmap of top and bottom 25 school included in slides
+8.  SchoolUnivBoxplot:  Boxplot included in slides on relationshp between results and proximity to university
+9.  Team10Project_Proposal  Inital project proposal
 
