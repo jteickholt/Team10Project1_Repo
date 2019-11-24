@@ -32,7 +32,12 @@
 1.  Various raw data sources that were used in a variety of notebooks/analysis
 
 #### reports:  Contains reports and charts
-1.  DemographicsGrade5.png:  Barchart of results by racial demographics grade 5.
-2.  BoxAllStudentsGrade5.png:  Boxplot comparing charter vs independent schools for all students grade 5.
-2.  EconomicallyDisadvantagedGrade5:  Boxplot of results by economically disadvantage grade 5.
+1.  DemographicsGrade5.png:  Barchart included in slides of results by racial demographics grade 5.
+2.  BoxAllStudentsGrade5.png:  Boxplot included in comparing charter vs independent schools for all students grade 5.
+3.  EconomicallyDisadvantagedGrade5.png:  Boxplot included in slides of results by economically disadvantage grade 5.
+4.  Project1_SlidesSteve_Xiaodi_Jeff.pptx:  Project slides presented in class.
+5.  SchoolRegionBoxplot.png:  Boxplot included in slides on relationship between results and region
+6.  SchoolGMAP.png:  Gmap of top and bottom 25 school included in slides
+7.  SchoolUnivBoxplot:  Boxplot included in slides on relationshp between results and proximity to university
+8.  Team10Project_Proposal  Inital project proposal
 
