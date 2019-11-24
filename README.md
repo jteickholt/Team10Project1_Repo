@@ -29,5 +29,7 @@
 7.  jeff.ipynb:  Analyis geographical relationship. Authoer:  Jeff
 
 #### rawdata:  Contains all of the raw data files.
+1.  Various raw data sources that were used in a variety of notebooks/analysis
 
 #### reports:  Contains reports and charts
+1.  
