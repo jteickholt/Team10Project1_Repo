@@ -32,4 +32,7 @@
 1.  Various raw data sources that were used in a variety of notebooks/analysis
 
 #### reports:  Contains reports and charts
-1.  
+1.  DemographicsGrade5.png:  Barchart of results by racial demographics grade 5.
+2.  BoxAllStudentsGrade5.png:  Boxplot comparing charter vs independent schools for all students grade 5.
+2.  EconomicallyDisadvantagedGrade5:  Boxplot of results by economically disadvantage grade 5.
+
